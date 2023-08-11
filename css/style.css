@@ -267,12 +267,17 @@ footer {
     text-align:  center;
     margin-top: 135px;
     
-   
-
 }
 
 
 #pagos img{
     width: 300px !important;
     margin: 0 auto;
+}
+
+#domicilios .titulo {
+    width: 100px;
+    text-align: center;
+    margin-top: 135px;
+
 }
