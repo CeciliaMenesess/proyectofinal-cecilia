@@ -257,11 +257,35 @@ footer {
 #nosotros .titulo{
     width:100px;
     text-align:  center;
-    margin-top: 135px;
-    
-   
+    margin-top: 135px; 
 
 }
+ /* pag rosas */
+
+#rosas .titulo{
+    width:100px;
+    text-align:  center;
+    margin-top: 135px; 
+
+}
+ /* pag hortensias */
+
+#hortensias .titulo{
+    width:100px;
+    text-align:  center;
+    margin-top: 135px; 
+
+}
+ /* pag camelias */
+
+#camelias .titulo{
+    width:100px;
+    text-align:  center;
+    margin-top: 135px; 
+
+}
+
+
 #pagos .titulo{
     width:100px;
     text-align:  center;
@@ -280,4 +304,14 @@ footer {
     text-align: center;
     color: #000000 !important;
 
+}
+
+.ajuste{
+    width: 200%;
+    height: 700px;
+}
+.ajuste2{
+    width: 100%;
+    height: 500px;
+   
 }
